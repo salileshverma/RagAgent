@@ -1,0 +1,7 @@
+phidata
+sentence-transformers
+pydantic
+python-dotenv
+lancedb
+torch
+transformers
